@@ -1,6 +1,7 @@
 # LoRaWAN to Google Maps Integration
 
-This project demonstrates how to transmit a **GPS position (latitude and longitude)** from a **LoRaWAN device** (real or simulated) to a **web-based Google Maps interface**. The position is passed through a JSON intermediary and visualized in near real-time using a **WebSocket-triggered map reload**.
+This project demonstrates how to transmit a **GPS position (latitude and longitude)** from a **LoRaWAN device** (real or simulated) to a **web-based Google Maps interface**. 
+The position is passed through a JSON intermediary and visualized in near real-time using a **WebSocket-triggered map reload**.
 
 > ⚠️ **Note**: The entire system is configured for use on a **single device** in a **local-only environment**, but it can be easily adapted for **global deployments**.
 
@@ -21,7 +22,7 @@ cd LoRaWAN-Google-Maps-Integration
 
 ### 2. Create a virtual environment (recommended)
 
-Using Python ≥ 3.7:
+Using Python ≥ 3.13:
 
 ```bash
 python -m venv .venv
