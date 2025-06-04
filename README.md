@@ -127,6 +127,11 @@ This project demonstrates:
 
 ---
 
+## 📄 Uplink Decoder
+
+The file [`./decoder_uplink.js`](./decoder_uplink.js) contains a custom payload decoder script.  
+This should be added in your TTN application settings under the "Payload Formatters" section, to properly decode uplink messages sent by your LoRaWAN device.
+
 ## 📌 Notes
 
 - Designed for **local single-device** usage.
