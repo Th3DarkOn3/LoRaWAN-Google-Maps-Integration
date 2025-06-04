@@ -5,6 +5,8 @@ This project demonstrates how to transmit a **GPS position (latitude and longitu
 > ⚠️ **Note**: The entire system is configured for use on a **single device** in a **local-only environment**, but it can be easily adapted for **global deployments**.
 
 ---
+![d drawio](https://github.com/user-attachments/assets/5157db06-e2d7-452a-bc29-ab8cc967ef3f)
+
 
 ## 🚀 Quick Start
 
