@@ -12,7 +12,7 @@ This project demonstrates how to transmit a **GPS position (latitude and longitu
 
 ```bash
 git clone https://github.com/Th3DarkOn3/LoRaWAN-Google-Maps-Integration.git
-cd your-repo-name
+cd LoRaWAN-Google-Maps-Integration
 ```
 
 ---
