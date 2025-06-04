@@ -7,8 +7,8 @@ from geopy.geocoders import Nominatim
 from websocket_server import WebsocketServer
 import threading
 
-APP_ID = "th3-dark-on3"
-ACCESS_KEY = "NNSXS.2LBTZM4XO24YSLQTFFRPI32RSGG6HJA5Z7RFJGQ.5P22WB7DW5H6IXXOJVYGQTCZAWFYITLPGHOLKWNRLMWU2EVKG7NQ"
+APP_ID = "[ APP ID \ APP Name ]"
+ACCESS_KEY = "[ API Key TTN MQTT server ]"
 
 geolocator = Nominatim(user_agent="geoapi")
 
