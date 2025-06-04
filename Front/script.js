@@ -6,7 +6,7 @@ window.initMap = function () {
   map = new google.maps.Map(document.getElementById("map"), {
     center: { lat: 46.603354, lng: 1.888334 },
     zoom: 6,
-    mapId: 'adc3a7e5bb31204643eebbd6'
+    mapId: '[ MAP ID ]' // Info DOC google
   });
 
   function chargerPoints() {
